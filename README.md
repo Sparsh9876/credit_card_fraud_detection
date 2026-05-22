@@ -121,8 +121,8 @@ python python/analysis.py
 
 ## 📬 Connect with Me
 
-- LinkedIn : *(add your LinkedIn URL)*
-- Portfolio : *(add your portfolio URL)*
+- LinkedIn : *https://www.linkedin.com/in/sparshbhatnagar/*
+- Email : *sparsh.bhatnagar13@gmail.com*
 
 ---
 
