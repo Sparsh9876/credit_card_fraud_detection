@@ -65,9 +65,9 @@ Raw CSV → PostgreSQL → Python (Cleaning + EDA) → Power BI Dashboard → Bu
 - [x] PostgreSQL database created
 - [x] Table created and CSV imported
 - [x] Python connected to PostgreSQL
-- [ ] Data cleaning complete
-- [ ] Feature engineering complete
-- [ ] EDA and visualisations complete
+- [x] Data cleaning complete
+- [x] Feature engineering complete
+- [x] EDA and visualisations complete
 - [ ] Power BI dashboard complete
 - [ ] Business insights documented
 - [ ] Final README updated
