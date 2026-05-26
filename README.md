@@ -8,7 +8,7 @@
 
 An end-to-end data analytics project to detect and analyse fraudulent credit card transactions.
 Built using a real-world industry workflow used at companies like American Express, Deutsche Bank,
-Deloitte, and Accenture.
+Deloitte, and Accenture.  
 
 ---
 
@@ -114,7 +114,7 @@ Raw CSV → PostgreSQL → Python (Cleaning + EDA) → Power BI Dashboard → Bu
 ```bash
 # Coming soon
 pip install -r requirements.txt
-python python/analysis.py
+python python/01_python.py
 ```
 
 ---
