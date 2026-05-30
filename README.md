@@ -68,6 +68,7 @@ Raw CSV → PostgreSQL → Python (Cleaning + EDA) → Power BI Dashboard → Bu
 - [x] Data cleaning complete
 - [x] Feature engineering complete
 - [x] EDA and visualisations complete
+- [x] Cleaned dataset uploaded 
 - [ ] Power BI dashboard complete
 - [ ] Business insights documented
 - [ ] Final README updated
