@@ -285,7 +285,7 @@ At companies like:
 
 - 🎓 MCA Student — Amity University
 - 💼 Aspiring Data Analyst/ Data Scientist
-- 🛠 Skills: Python · SQL · Power BI · pandas · Data Visualisation
+- 🛠 Skills: Python · SQL · Power BI · Tableau · pandas · Data Visualisation · EDA
 - 🔗 LinkedIn: www.linkedin.com/in/sparshbhatnagar
 - 📧 Email: sparsh.bhatnagar13@gmail.com
 
